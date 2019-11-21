@@ -62,6 +62,7 @@
     <Compile Include="c_ptt.cs" />
     <Compile Include="c_pxuat.cs" />
     <Compile Include="c_sanpham.cs" />
+    <Compile Include="c_test.cs" />
     <Compile Include="c_tiente.cs" />
     <Compile Include="c_tudong.cs" />
     <Compile Include="c_dmloainhap.cs" />
