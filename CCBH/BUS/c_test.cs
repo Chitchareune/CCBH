@@ -8,6 +8,6 @@ namespace BUS
 {
     class c_test
     { 
-        //test abc 123
+        //test abc 123  chỉnh sửa
     }
 }
